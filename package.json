@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "description": "",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  },
+  "devDependencies": {
+
+  },
+  "license": "MIT",
+  "author": "bling0390@gmail.com"
+}
